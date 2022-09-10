@@ -1,0 +1,64 @@
+import assets/
+/* Estilos da página index.html */
+.justify{
+    text-align: justify;
+    
+}
+.center{
+    text-align: center;
+    text-decoration: none;
+    color: whitesmoke;
+}
+#menu li {
+    display: inline;
+    padding: 15px;
+    
+}
+#menu li a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 23px;
+}
+#menu li a:hover {
+    color: lightgreen;
+}
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    text-decoration: none;
+    color: whitesmoke;
+    align-items: center;
+}
+.p-30{
+    padding: 30px;
+}
+.border-radius-50{
+    border-radius: 70px;
+}
+.wh-300{
+    width: 200px;
+    width: 200px;
+}
+.tm-social{
+    width: 50px;
+    width: 50px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+img{
+    width: 700px;
+}
+.center{
+    display: flex;
+    justify-content: center
+
+}
+.backg{
+background-color: #256D85;
+}
+/* Estilos da página contato.html */
+.ml-50{
+    margin-left: 200px;
+}
